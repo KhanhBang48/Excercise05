@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        //Ex1();
+        Ex1();
         Ex2();
     }
     /*Create a random integer values array, then create functions that:
